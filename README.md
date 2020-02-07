@@ -1,6 +1,8 @@
 Simple Speed Dial
 ==============
 
+Minimaly modified for use in Firefox. everything below is from the original version/source.
+
 A speed dial functionally similar to the one used in Opera.
 
 [Chrome Extension](https://chrome.google.com/webstore/detail/simple-speed-dial/gpdpldlbafdmhlmcdllcjgoigmpjonfc/details)
