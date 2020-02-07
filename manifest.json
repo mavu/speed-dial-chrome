@@ -10,9 +10,6 @@
 	},
 	"manifest_version": 2,
 	"name": "Simple Speed Dial",
-	"options_page": "options.html",
-	"permissions": [ "background", "bookmarks", "storage" ],
-	"background": { "scripts": [ "javascript/eventPage.js" ], "persistent": false },
-	"update_url": "http://clients2.google.com/service/update2/crx",
+	"permissions": [  "bookmarks", "storage" ],
 	"version": "2.5.0"
 }
